@@ -22,7 +22,6 @@ const client = new Discord.Client({disableEveryone: true});
 
 const prefix = "3";
 /////////////////////////
-client.user.setActivity("3play #By:Mal Team",{type: 'WATCHING'}); });
 ////////////////////////
 
 client.on('message', async msg => {
